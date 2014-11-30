@@ -1,0 +1,1079 @@
+entidad	nom_ent	mun	nom_mun	pobtot
+1	Aguascalientes	8	San José de Gracia	8443
+4	Campeche	7	Palizada	8352
+4	Campeche	8	Tenabo	9736
+5	Coahuila de Zaragoza	1	Abasolo	1070
+5	Coahuila de Zaragoza	5	Candela	1808
+5	Coahuila de Zaragoza	8	Escobedo	2901
+5	Coahuila de Zaragoza	12	Guerrero	2091
+5	Coahuila de Zaragoza	13	Hidalgo	1852
+5	Coahuila de Zaragoza	14	Jiménez	9935
+5	Coahuila de Zaragoza	15	Juárez	1599
+5	Coahuila de Zaragoza	16	Lamadrid	1835
+5	Coahuila de Zaragoza	19	Morelos	8207
+5	Coahuila de Zaragoza	21	Nadadores	6335
+5	Coahuila de Zaragoza	26	Progreso	3473
+5	Coahuila de Zaragoza	29	Sacramento	2314
+5	Coahuila de Zaragoza	34	Sierra Mojada	6375
+5	Coahuila de Zaragoza	37	Villa Unión	6289
+6	Colima	6	Ixtlahuacán	5300
+6	Colima	8	Minatitlán	8174
+7	Chiapas	7	Amatenango del Valle	8728
+7	Chiapas	10	Bejucal de Ocampo	7623
+7	Chiapas	18	Coapilla	8444
+7	Chiapas	25	Chapultenango	7332
+7	Chiapas	28	Chiapilla	5405
+7	Chiapas	29	Chicoasén	5018
+7	Chiapas	33	Francisco León	7000
+7	Chiapas	36	La Grandeza	7272
+7	Chiapas	45	Ixtapangajoya	5478
+7	Chiapas	50	La Libertad	4974
+7	Chiapas	53	Mazapa de Madero	7793
+7	Chiapas	55	Metapa	5033
+7	Chiapas	58	Nicolás Ruíz	4317
+7	Chiapas	63	Osumacinta	3792
+7	Chiapas	73	Rayón	9002
+7	Chiapas	84	Solosuchiapa	8065
+7	Chiapas	85	Soyaló	9740
+7	Chiapas	88	Sunuapa	2235
+7	Chiapas	90	Tapalapa	4121
+7	Chiapas	98	Totolapa	6375
+7	Chiapas	110	San Lucas	6734
+7	Chiapas	113	Aldama	5072
+7	Chiapas	116	Marqués de Comillas	9856
+7	Chiapas	117	Montecristo de Guerrero	6900
+7	Chiapas	118	San Andrés Duraznal	4545
+7	Chiapas	119	Santiago el Pinar	3245
+8	Chihuahua	3	Allende	8409
+8	Chihuahua	6	Bachíniva	6011
+8	Chihuahua	12	Carichí	8795
+8	Chihuahua	14	Coronado	2284
+8	Chihuahua	15	Coyame del Sotol	1681
+8	Chihuahua	16	La Cruz	3982
+8	Chihuahua	18	Cusihuiriachi	5414
+8	Chihuahua	20	Chínipas	8441
+8	Chihuahua	22	Dr. Belisario Domínguez	2911
+8	Chihuahua	23	Galeana	5892
+8	Chihuahua	24	Santa Isabel	3937
+8	Chihuahua	25	Gómez Farías	8624
+8	Chihuahua	26	Gran Morelos	3209
+8	Chihuahua	28	Guadalupe	6458
+8	Chihuahua	30	Guazapares	8998
+8	Chihuahua	33	Huejotitán	1049
+8	Chihuahua	34	Ignacio Zaragoza	6934
+8	Chihuahua	38	Julimes	4953
+8	Chihuahua	39	López	4025
+8	Chihuahua	41	Maguarichi	1921
+8	Chihuahua	42	Manuel Benavides	1601
+8	Chihuahua	43	Matachí	3104
+8	Chihuahua	44	Matamoros	4499
+8	Chihuahua	46	Morelos	8343
+8	Chihuahua	47	Moris	5312
+8	Chihuahua	49	Nonoava	2849
+8	Chihuahua	51	Ocampo	7546
+8	Chihuahua	53	Praxedis G. Guerrero	4799
+8	Chihuahua	54	Riva Palacio	8012
+8	Chihuahua	56	Rosario	2235
+8	Chihuahua	57	San Francisco de Borja	2290
+8	Chihuahua	58	San Francisco de Conchos	2983
+8	Chihuahua	59	San Francisco del Oro	4753
+8	Chihuahua	61	Satevó	3662
+8	Chihuahua	63	Temósachic	6211
+8	Chihuahua	64	El Tule	1869
+8	Chihuahua	66	Uruachi	8200
+8	Chihuahua	67	Valle de Zaragoza	5105
+10	Durango	2	Canelas	4122
+10	Durango	3	Coneto de Comonfort	4530
+10	Durango	10	Hidalgo	4265
+10	Durango	11	Indé	5280
+10	Durango	17	Ocampo	9626
+10	Durango	19	Otáez	5208
+10	Durango	25	San Bernardo	3433
+10	Durango	27	San Juan de Guadalupe	5947
+10	Durango	29	San Luis del Cordero	2181
+10	Durango	30	San Pedro del Gallo	1709
+10	Durango	31	Santa Clara	7003
+10	Durango	33	Súchil	6761
+10	Durango	37	Topia	8581
+11	Guanajuato	6	Atarjea	5610
+11	Guanajuato	34	Santa Catarina	5120
+11	Guanajuato	36	Santiago Maravatío	6670
+12	Guerrero	5	Alpoyeca	6637
+12	Guerrero	8	Atenango del Río	8390
+12	Guerrero	9	Atlamajalcingo del Monte	5706
+12	Guerrero	24	Cualác	7007
+12	Guerrero	26	Cuetzala del Progreso	9166
+12	Guerrero	31	General Canuto A. Neri	6301
+12	Guerrero	37	Ixcateopan de Cuauhtémoc	6603
+12	Guerrero	47	Pedro Ascencio Alquisiras	6978
+12	Guerrero	63	Tlacoapa	9967
+12	Guerrero	65	Tlalixtaquilla de Maldonado	7096
+12	Guerrero	70	Xochihuehuetlán	7079
+12	Guerrero	80	Juchitán	7166
+13	Hidalgo	4	Agua Blanca de Iturbide	8994
+13	Hidalgo	20	Eloxochitlán	2800
+13	Hidalgo	33	Juárez Hidalgo	3193
+13	Hidalgo	34	Lolotla	9843
+13	Hidalgo	36	San Agustín Metzquititlán	9364
+13	Hidalgo	38	Mineral del Chico	7980
+13	Hidalgo	43	Nicolás Flores	6614
+13	Hidalgo	45	Omitlán de Juárez	8963
+13	Hidalgo	47	Pacula	5049
+13	Hidalgo	64	Tepetitlán	9940
+13	Hidalgo	71	Tlahuiltepa	9753
+13	Hidalgo	79	Xochicoatlán	7320
+14	Jalisco	4	Amacueca	5545
+14	Jalisco	7	San Juanito de Escobedo	8896
+14	Jalisco	10	Atemajac de Brizuela	6655
+14	Jalisco	11	Atengo	5400
+14	Jalisco	12	Atenguillo	4115
+14	Jalisco	14	Atoyac	8276
+14	Jalisco	19	Bolaños	6820
+14	Jalisco	26	Concepción de Buenos Aires	5933
+14	Jalisco	28	Cuautla	2171
+14	Jalisco	31	Chimaltitán	3771
+14	Jalisco	32	Chiquilistlán	5814
+14	Jalisco	34	Ejutla	2082
+14	Jalisco	38	Guachinango	4323
+14	Jalisco	41	Huejúcar	6084
+14	Jalisco	42	Huejuquilla el Alto	8781
+14	Jalisco	49	Jilotlán de los Dolores	9545
+14	Jalisco	52	Juchitlán	5515
+14	Jalisco	54	El Limón	5499
+14	Jalisco	56	Santa María del Oro	2517
+14	Jalisco	57	La Manzanilla de la Paz	3755
+14	Jalisco	60	Mexticacán	6034
+14	Jalisco	62	Mixtlán	3574
+14	Jalisco	69	Quitupan	8691
+14	Jalisco	71	San Cristóbal de la Barranca	3176
+14	Jalisco	72	San Diego de Alejandría	6647
+14	Jalisco	75	San Marcos	3762
+14	Jalisco	76	San Martín de Bolaños	3405
+14	Jalisco	80	San Sebastián del Oeste	5755
+14	Jalisco	81	Santa María de los Ángeles	3726
+14	Jalisco	89	Techaluta de Montenegro	3511
+14	Jalisco	90	Tenamaxtlán	7051
+14	Jalisco	95	Teuchitlán	9088
+14	Jalisco	99	Tolimán	9591
+14	Jalisco	102	Tonaya	5930
+14	Jalisco	103	Tonila	7256
+14	Jalisco	104	Totatiche	4435
+14	Jalisco	106	Tuxcacuesco	4234
+14	Jalisco	107	Tuxcueca	6316
+14	Jalisco	111	Valle de Guadalupe	6705
+14	Jalisco	112	Valle de Juárez	5798
+14	Jalisco	115	Villa Guerrero	5638
+14	Jalisco	117	Cañadas de Obregón	4152
+14	Jalisco	122	Zapotitlán de Vadillo	6685
+15	México	17	Ayapango	8864
+15	México	27	Chapultepec	9676
+15	México	34	Ecatzingo	9369
+15	México	41	Ixtapan del Oro	6629
+15	México	61	Nopaltepec	8895
+15	México	66	Otzoloapan	4864
+15	México	69	Papalotla	4147
+15	México	77	San Simón de Guerrero	6272
+15	México	78	Santo Tomás	9111
+15	México	98	Texcalyacac	5111
+15	México	116	Zacazonapan	4051
+16	Michoacán de Ocampo	7	Aporo	3218
+16	Michoacán de Ocampo	13	Carácuaro	9212
+16	Michoacán de Ocampo	18	Copándaro	8952
+16	Michoacán de Ocampo	23	Chavinda	9975
+16	Michoacán de Ocampo	26	Chinicuila	5271
+16	Michoacán de Ocampo	27	Chucándiro	5166
+16	Michoacán de Ocampo	28	Churintzio	5564
+16	Michoacán de Ocampo	37	Huaniqueo	7983
+16	Michoacán de Ocampo	39	Huiramba	7925
+16	Michoacán de Ocampo	48	Lagunillas	5506
+16	Michoacán de Ocampo	54	Morelos	8091
+16	Michoacán de Ocampo	57	Nocupétaro	7799
+16	Michoacán de Ocampo	59	Nuevo Urecho	8240
+16	Michoacán de Ocampo	60	Numarán	9599
+16	Michoacán de Ocampo	74	Cojumatlán de Régules	9980
+16	Michoacán de Ocampo	81	Susupuato	8704
+16	Michoacán de Ocampo	94	Tlazazalca	6890
+16	Michoacán de Ocampo	96	Tumbiscatío	7890
+16	Michoacán de Ocampo	101	Tzitzio	9166
+16	Michoacán de Ocampo	109	Zináparo	3247
+17	Morelos	5	Coatlán del Río	9471
+17	Morelos	14	Mazatepec	9456
+17	Morelos	21	Tetecala	7441
+17	Morelos	23	Tlalnepantla	6636
+17	Morelos	32	Zacualpan	9087
+18	Nayarit	13	San Pedro Lagunillas	7510
+19	Nuevo León	1	Abasolo	2791
+19	Nuevo León	2	Agualeguas	3443
+19	Nuevo León	3	Los Aldamas	1374
+19	Nuevo León	8	Bustamante	3773
+19	Nuevo León	11	Cerralvo	7855
+19	Nuevo León	15	Dr. Coss	1716
+19	Nuevo León	16	Dr. González	3345
+19	Nuevo León	20	Gral. Bravo	5527
+19	Nuevo León	23	Gral. Treviño	1277
+19	Nuevo León	24	Gral. Zaragoza	5942
+19	Nuevo León	27	Los Herreras	2030
+19	Nuevo León	28	Higueras	1594
+19	Nuevo León	29	Hualahuises	6914
+19	Nuevo León	30	Iturbide	3558
+19	Nuevo León	32	Lampazos de Naranjo	5349
+19	Nuevo León	34	Marín	5488
+19	Nuevo León	35	Melchor Ocampo	862
+19	Nuevo León	36	Mier y Noriega	7095
+19	Nuevo León	37	Mina	5447
+19	Nuevo León	40	Parás	1034
+19	Nuevo León	42	Los Ramones	5359
+19	Nuevo León	43	Rayones	2628
+19	Nuevo León	50	Vallecillo	1971
+19	Nuevo León	51	Villaldama	4113
+20	Oaxaca	1	Abejones	1084
+20	Oaxaca	3	Asunción Cacalotepec	2495
+20	Oaxaca	4	Asunción Cuyotepeji	1012
+20	Oaxaca	7	Asunción Ocotlán	2612
+20	Oaxaca	8	Asunción Tlacolulita	842
+20	Oaxaca	9	Ayotzintepec	6720
+20	Oaxaca	11	Calihualá	1220
+20	Oaxaca	12	Candelaria Loxicha	9860
+20	Oaxaca	13	Ciénega de Zimatlán	2785
+20	Oaxaca	15	Coatecas Altas	4712
+20	Oaxaca	16	Coicoyán de las Flores	8531
+20	Oaxaca	17	La Compañía	3302
+20	Oaxaca	18	Concepción Buenavista	834
+20	Oaxaca	19	Concepción Pápalo	3071
+20	Oaxaca	20	Constancia del Rosario	3860
+20	Oaxaca	22	Cosoltepec	866
+20	Oaxaca	24	Cuyamecalco Villa de Zaragoza	3846
+20	Oaxaca	26	Chalcatongo de Hidalgo	8481
+20	Oaxaca	27	Chiquihuitlán de Benito Juárez	2458
+20	Oaxaca	29	Eloxochitlán de Flores Magón	4263
+20	Oaxaca	30	El Espinal	8310
+20	Oaxaca	31	Tamazulápam del Espíritu Santo	7362
+20	Oaxaca	32	Fresnillo de Trujano	1033
+20	Oaxaca	33	Guadalupe Etla	2433
+20	Oaxaca	34	Guadalupe de Ramírez	1425
+20	Oaxaca	35	Guelatao de Juárez	544
+20	Oaxaca	36	Guevea de Humboldt	5285
+20	Oaxaca	37	Mesones Hidalgo	4402
+20	Oaxaca	38	Villa Hidalgo	2112
+20	Oaxaca	40	Huautepec	5995
+20	Oaxaca	42	Ixtlán de Juárez	7674
+20	Oaxaca	45	Magdalena Apasco	7522
+20	Oaxaca	46	Magdalena Jaltepec	3313
+20	Oaxaca	47	Santa Magdalena Jicotlán	93
+20	Oaxaca	48	Magdalena Mixtepec	1304
+20	Oaxaca	49	Magdalena Ocotlán	1141
+20	Oaxaca	50	Magdalena Peñasco	3778
+20	Oaxaca	51	Magdalena Teitipac	4368
+20	Oaxaca	52	Magdalena Tequisistlán	6182
+20	Oaxaca	53	Magdalena Tlacotepec	1221
+20	Oaxaca	54	Magdalena Zahuatlán	409
+20	Oaxaca	55	Mariscala de Juárez	3530
+20	Oaxaca	56	Mártires de Tacubaya	1451
+20	Oaxaca	60	Mixistlán de la Reforma	2770
+20	Oaxaca	61	Monjas	2568
+20	Oaxaca	62	Natividad	586
+20	Oaxaca	63	Nazareno Etla	3882
+20	Oaxaca	64	Nejapa de Madero	7390
+20	Oaxaca	65	Ixpantepec Nieves	1182
+20	Oaxaca	66	Santiago Niltepec	5353
+20	Oaxaca	69	La Pe	2446
+20	Oaxaca	70	Pinotepa de Don Luis	6629
+20	Oaxaca	71	Pluma Hidalgo	3060
+20	Oaxaca	72	San José del Progreso	6579
+20	Oaxaca	74	Santa Catarina Quioquitani	505
+20	Oaxaca	75	Reforma de Pineda	2671
+20	Oaxaca	76	La Reforma	3331
+20	Oaxaca	77	Reyes Etla	3568
+20	Oaxaca	78	Rojas de Cuauhtémoc	1092
+20	Oaxaca	80	San Agustín Amatengo	1312
+20	Oaxaca	81	San Agustín Atenango	1914
+20	Oaxaca	82	San Agustín Chayuco	3952
+20	Oaxaca	83	San Agustín de las Juntas	8089
+20	Oaxaca	84	San Agustín Etla	3893
+20	Oaxaca	86	San Agustín Tlacotepec	874
+20	Oaxaca	87	San Agustín Yatareni	4075
+20	Oaxaca	88	San Andrés Cabecera Nueva	2851
+20	Oaxaca	89	San Andrés Dinicuiti	2152
+20	Oaxaca	90	San Andrés Huaxpaltepec	5867
+20	Oaxaca	91	San Andrés Huayápam	4879
+20	Oaxaca	92	San Andrés Ixtlahuaca	1439
+20	Oaxaca	93	San Andrés Lagunas	505
+20	Oaxaca	94	San Andrés Nuxiño	1898
+20	Oaxaca	95	San Andrés Paxtlán	3990
+20	Oaxaca	96	San Andrés Sinaxtla	772
+20	Oaxaca	97	San Andrés Solaga	1740
+20	Oaxaca	98	San Andrés Teotilálpam	4427
+20	Oaxaca	99	San Andrés Tepetlapa	475
+20	Oaxaca	100	San Andrés Yaá	497
+20	Oaxaca	101	San Andrés Zabache	726
+20	Oaxaca	102	San Andrés Zautla	4405
+20	Oaxaca	103	San Antonino Castillo Velasco	5651
+20	Oaxaca	104	San Antonino el Alto	2508
+20	Oaxaca	105	San Antonino Monte Verde	6650
+20	Oaxaca	106	San Antonio Acutla	297
+20	Oaxaca	108	San Antonio Huitepec	4289
+20	Oaxaca	109	San Antonio Nanahuatípam	1233
+20	Oaxaca	110	San Antonio Sinicahua	1603
+20	Oaxaca	111	San Antonio Tepetlapa	4394
+20	Oaxaca	112	San Baltazar Chichicápam	2439
+20	Oaxaca	113	San Baltazar Loxicha	2832
+20	Oaxaca	114	San Baltazar Yatzachi el Bajo	677
+20	Oaxaca	115	San Bartolo Coyotepec	8684
+20	Oaxaca	116	San Bartolomé Ayautla	4052
+20	Oaxaca	117	San Bartolomé Loxicha	2422
+20	Oaxaca	118	San Bartolomé Quialana	2470
+20	Oaxaca	119	San Bartolomé Yucuañe	399
+20	Oaxaca	120	San Bartolomé Zoogocho	368
+20	Oaxaca	121	San Bartolo Soyaltepec	655
+20	Oaxaca	122	San Bartolo Yautepec	677
+20	Oaxaca	123	San Bernardo Mixtepec	2705
+20	Oaxaca	126	San Cristóbal Amatlán	5024
+20	Oaxaca	127	San Cristóbal Amoltepec	1283
+20	Oaxaca	128	San Cristóbal Lachirioag	1230
+20	Oaxaca	129	San Cristóbal Suchixtlahuaca	334
+20	Oaxaca	130	San Dionisio del Mar	5098
+20	Oaxaca	132	San Dionisio Ocotlán	1245
+20	Oaxaca	133	San Esteban Atatlahuca	3974
+20	Oaxaca	135	San Felipe Tejalápam	7187
+20	Oaxaca	137	San Francisco Cahuacuá	3427
+20	Oaxaca	138	San Francisco Cajonos	460
+20	Oaxaca	139	San Francisco Chapulapa	2136
+20	Oaxaca	140	San Francisco Chindúa	827
+20	Oaxaca	141	San Francisco del Mar	7232
+20	Oaxaca	142	San Francisco Huehuetlán	1160
+20	Oaxaca	143	San Francisco Ixhuatán	8959
+20	Oaxaca	144	San Francisco Jaltepetongo	1110
+20	Oaxaca	145	San Francisco Lachigoló	3474
+20	Oaxaca	146	San Francisco Logueche	2666
+20	Oaxaca	147	San Francisco Nuxaño	378
+20	Oaxaca	148	San Francisco Ozolotepec	1945
+20	Oaxaca	149	San Francisco Sola	1509
+20	Oaxaca	151	San Francisco Teopan	394
+20	Oaxaca	152	San Francisco Tlapancingo	2152
+20	Oaxaca	153	San Gabriel Mixtepec	4733
+20	Oaxaca	154	San Ildefonso Amatlán	2393
+20	Oaxaca	155	San Ildefonso Sola	940
+20	Oaxaca	156	San Ildefonso Villa Alta	3478
+20	Oaxaca	158	San Jacinto Tlacotepec	2231
+20	Oaxaca	159	San Jerónimo Coatlán	5449
+20	Oaxaca	160	San Jerónimo Silacayoapilla	1449
+20	Oaxaca	161	San Jerónimo Sosola	2559
+20	Oaxaca	162	San Jerónimo Taviche	1848
+20	Oaxaca	163	San Jerónimo Tecóatl	1606
+20	Oaxaca	164	San Jorge Nuchita	3215
+20	Oaxaca	165	San José Ayuquila	1511
+20	Oaxaca	167	San José del Peñasco	2094
+20	Oaxaca	168	San José Estancia Grande	977
+20	Oaxaca	169	San José Independencia	3684
+20	Oaxaca	170	San José Lachiguiri	3849
+20	Oaxaca	172	San Juan Achiutla	430
+20	Oaxaca	173	San Juan Atepec	1517
+20	Oaxaca	174	Ánimas Trujano	3759
+20	Oaxaca	175	San Juan Bautista Atatlahuca	1724
+20	Oaxaca	176	San Juan Bautista Coixtlahuaca	2808
+20	Oaxaca	177	San Juan Bautista Cuicatlán	9441
+20	Oaxaca	178	San Juan Bautista Guelache	6287
+20	Oaxaca	179	San Juan Bautista Jayacatlán	1462
+20	Oaxaca	180	San Juan Bautista Lo de Soto	2325
+20	Oaxaca	181	San Juan Bautista Suchitepec	417
+20	Oaxaca	182	San Juan Bautista Tlacoatzintepec	2292
+20	Oaxaca	183	San Juan Bautista Tlachichilco	1447
+20	Oaxaca	185	San Juan Cacahuatepec	8680
+20	Oaxaca	186	San Juan Cieneguilla	605
+20	Oaxaca	187	San Juan Coatzóspam	2535
+20	Oaxaca	188	San Juan Colorado	9494
+20	Oaxaca	189	San Juan Comaltepec	2517
+20	Oaxaca	191	San Juan Chicomezúchil	320
+20	Oaxaca	192	San Juan Chilateca	1442
+20	Oaxaca	193	San Juan del Estado	2546
+20	Oaxaca	194	San Juan del Río	1231
+20	Oaxaca	195	San Juan Diuxi	1256
+20	Oaxaca	196	San Juan Evangelista Analco	404
+20	Oaxaca	197	San Juan Guelavía	3047
+20	Oaxaca	199	San Juan Ihualtepec	713
+20	Oaxaca	200	San Juan Juquila Mixes	3924
+20	Oaxaca	201	San Juan Juquila Vijanos	1832
+20	Oaxaca	202	San Juan Lachao	4531
+20	Oaxaca	203	San Juan Lachigalla	3285
+20	Oaxaca	204	San Juan Lajarcia	715
+20	Oaxaca	206	San Juan de los Cués	2357
+20	Oaxaca	208	San Juan Mixtepec -Dto. 08 -	7611
+20	Oaxaca	209	San Juan Mixtepec -Dto. 26 -	711
+20	Oaxaca	210	San Juan Ñumí	6666
+20	Oaxaca	211	San Juan Ozolotepec	3168
+20	Oaxaca	212	San Juan Petlapa	2807
+20	Oaxaca	213	San Juan Quiahije	3628
+20	Oaxaca	214	San Juan Quiotepec	2313
+20	Oaxaca	215	San Juan Sayultepec	764
+20	Oaxaca	216	San Juan Tabaá	1331
+20	Oaxaca	217	San Juan Tamazola	3446
+20	Oaxaca	218	San Juan Teita	607
+20	Oaxaca	219	San Juan Teitipac	2565
+20	Oaxaca	220	San Juan Tepeuxila	2773
+20	Oaxaca	221	San Juan Teposcolula	1340
+20	Oaxaca	222	San Juan Yaeé	1530
+20	Oaxaca	223	San Juan Yatzona	452
+20	Oaxaca	224	San Juan Yucuita	684
+20	Oaxaca	225	San Lorenzo	5955
+20	Oaxaca	226	San Lorenzo Albarradas	2708
+20	Oaxaca	228	San Lorenzo Cuaunecuiltitla	771
+20	Oaxaca	229	San Lorenzo Texmelúcan	7048
+20	Oaxaca	230	San Lorenzo Victoria	1007
+20	Oaxaca	231	San Lucas Camotlán	3026
+20	Oaxaca	233	San Lucas Quiaviní	1745
+20	Oaxaca	234	San Lucas Zoquiápam	7554
+20	Oaxaca	235	San Luis Amatlán	3624
+20	Oaxaca	236	San Marcial Ozolotepec	1525
+20	Oaxaca	237	San Marcos Arteaga	1557
+20	Oaxaca	238	San Martín de los Cansecos	816
+20	Oaxaca	239	San Martín Huamelúlpam	1077
+20	Oaxaca	240	San Martín Itunyoso	2460
+20	Oaxaca	241	San Martín Lachilá	1084
+20	Oaxaca	243	San Martín Tilcajete	1742
+20	Oaxaca	244	San Martín Toxpalan	3669
+20	Oaxaca	245	San Martín Zacatepec	1277
+20	Oaxaca	246	San Mateo Cajonos	620
+20	Oaxaca	247	Capulálpam de Méndez	1467
+20	Oaxaca	249	San Mateo Yoloxochitlán	3475
+20	Oaxaca	250	San Mateo Etlatongo	1181
+20	Oaxaca	251	San Mateo Nejápam	1180
+20	Oaxaca	252	San Mateo Peñasco	2116
+20	Oaxaca	253	San Mateo Piñas	2226
+20	Oaxaca	254	San Mateo Río Hondo	3308
+20	Oaxaca	255	San Mateo Sindihui	2086
+20	Oaxaca	256	San Mateo Tlapiltepec	234
+20	Oaxaca	257	San Melchor Betaza	1091
+20	Oaxaca	258	San Miguel Achiutla	744
+20	Oaxaca	259	San Miguel Ahuehuetitlán	2465
+20	Oaxaca	260	San Miguel Aloápam	2488
+20	Oaxaca	261	San Miguel Amatitlán	7244
+20	Oaxaca	262	San Miguel Amatlán	1043
+20	Oaxaca	263	San Miguel Coatlán	3483
+20	Oaxaca	264	San Miguel Chicahua	2274
+20	Oaxaca	265	San Miguel Chimalapa	6608
+20	Oaxaca	266	San Miguel del Puerto	8481
+20	Oaxaca	267	San Miguel del Río	294
+20	Oaxaca	268	San Miguel Ejutla	916
+20	Oaxaca	269	San Miguel el Grande	4127
+20	Oaxaca	270	San Miguel Huautla	1399
+20	Oaxaca	271	San Miguel Mixtepec	3245
+20	Oaxaca	272	San Miguel Panixtlahuaca	6161
+20	Oaxaca	273	San Miguel Peras	3497
+20	Oaxaca	274	San Miguel Piedras	1296
+20	Oaxaca	275	San Miguel Quetzaltepec	7293
+20	Oaxaca	276	San Miguel Santa Flor	801
+20	Oaxaca	279	San Miguel Suchixtepec	2911
+20	Oaxaca	280	Villa Talea de Castro	2394
+20	Oaxaca	281	San Miguel Tecomatlán	308
+20	Oaxaca	282	San Miguel Tenango	794
+20	Oaxaca	283	San Miguel Tequixtepec	1042
+20	Oaxaca	284	San Miguel Tilquiápam	3160
+20	Oaxaca	285	San Miguel Tlacamama	3386
+20	Oaxaca	286	San Miguel Tlacotepec	3220
+20	Oaxaca	287	San Miguel Tulancingo	346
+20	Oaxaca	288	San Miguel Yotao	611
+20	Oaxaca	289	San Nicolás	1143
+20	Oaxaca	290	San Nicolás Hidalgo	1012
+20	Oaxaca	291	San Pablo Coatlán	4167
+20	Oaxaca	292	San Pablo Cuatro Venados	1388
+20	Oaxaca	294	San Pablo Huitzo	6307
+20	Oaxaca	295	San Pablo Huixtepec	9025
+20	Oaxaca	296	San Pablo Macuiltianguis	929
+20	Oaxaca	297	San Pablo Tijaltepec	2150
+20	Oaxaca	299	San Pablo Yaganiza	1108
+20	Oaxaca	300	San Pedro Amuzgos	6468
+20	Oaxaca	301	San Pedro Apóstol	1544
+20	Oaxaca	302	San Pedro Atoyac	4136
+20	Oaxaca	303	San Pedro Cajonos	1172
+20	Oaxaca	304	San Pedro Coxcaltepec Cántaros	851
+20	Oaxaca	305	San Pedro Comitancillo	3944
+20	Oaxaca	306	San Pedro el Alto	3903
+20	Oaxaca	307	San Pedro Huamelula	9594
+20	Oaxaca	308	San Pedro Huilotepec	2839
+20	Oaxaca	310	San Pedro Ixtlahuaca	6822
+20	Oaxaca	311	San Pedro Jaltepetongo	458
+20	Oaxaca	313	San Pedro Jocotipac	834
+20	Oaxaca	314	San Pedro Juchatengo	1693
+20	Oaxaca	315	San Pedro Mártir	1711
+20	Oaxaca	316	San Pedro Mártir Quiechapa	753
+20	Oaxaca	317	San Pedro Mártir Yucuxaco	1405
+20	Oaxaca	319	San Pedro Mixtepec -Dto. 26 -	1099
+20	Oaxaca	320	San Pedro Molinos	723
+20	Oaxaca	321	San Pedro Nopala	840
+20	Oaxaca	322	San Pedro Ocopetatillo	884
+20	Oaxaca	323	San Pedro Ocotepec	2135
+20	Oaxaca	326	San Pedro Sochiápam	4957
+20	Oaxaca	328	San Pedro Taviche	1173
+20	Oaxaca	329	San Pedro Teozacoalco	1320
+20	Oaxaca	330	San Pedro Teutila	4277
+20	Oaxaca	331	San Pedro Tidaá	894
+20	Oaxaca	332	San Pedro Topiltepec	406
+20	Oaxaca	333	San Pedro Totolápam	2603
+20	Oaxaca	335	San Pedro Yaneri	1002
+20	Oaxaca	336	San Pedro Yólox	2267
+20	Oaxaca	337	San Pedro y San Pablo Ayutla	5602
+20	Oaxaca	338	Villa de Etla	9280
+20	Oaxaca	339	San Pedro y San Pablo Teposcolula	3989
+20	Oaxaca	340	San Pedro y San Pablo Tequixtepec	1878
+20	Oaxaca	341	San Pedro Yucunama	232
+20	Oaxaca	342	San Raymundo Jalpan	2079
+20	Oaxaca	343	San Sebastián Abasolo	1849
+20	Oaxaca	344	San Sebastián Coatlán	2613
+20	Oaxaca	345	San Sebastián Ixcapa	3968
+20	Oaxaca	346	San Sebastián Nicananduta	1449
+20	Oaxaca	347	San Sebastián Río Hondo	3664
+20	Oaxaca	348	San Sebastián Tecomaxtlahuaca	8246
+20	Oaxaca	349	San Sebastián Teitipac	1976
+20	Oaxaca	351	San Simón Almolongas	2623
+20	Oaxaca	352	San Simón Zahuatlán	3833
+20	Oaxaca	353	Santa Ana	1978
+20	Oaxaca	354	Santa Ana Ateixtlahuaca	510
+20	Oaxaca	355	Santa Ana Cuauhtémoc	738
+20	Oaxaca	356	Santa Ana del Valle	1993
+20	Oaxaca	357	Santa Ana Tavela	908
+20	Oaxaca	358	Santa Ana Tlapacoyan	1854
+20	Oaxaca	359	Santa Ana Yareni	809
+20	Oaxaca	360	Santa Ana Zegache	3592
+20	Oaxaca	361	Santa Catalina Quierí	922
+20	Oaxaca	362	Santa Catarina Cuixtla	1496
+20	Oaxaca	363	Santa Catarina Ixtepeji	2633
+20	Oaxaca	365	Santa Catarina Lachatao	1307
+20	Oaxaca	366	Santa Catarina Loxicha	3986
+20	Oaxaca	367	Santa Catarina Mechoacán	4543
+20	Oaxaca	368	Santa Catarina Minas	1816
+20	Oaxaca	369	Santa Catarina Quiané	1847
+20	Oaxaca	370	Santa Catarina Tayata	679
+20	Oaxaca	371	Santa Catarina Ticuá	954
+20	Oaxaca	372	Santa Catarina Yosonotú	1886
+20	Oaxaca	373	Santa Catarina Zapoquila	448
+20	Oaxaca	374	Santa Cruz Acatepec	1470
+20	Oaxaca	376	Santa Cruz de Bravo	364
+20	Oaxaca	378	Santa Cruz Mixtepec	3615
+20	Oaxaca	379	Santa Cruz Nundaco	2958
+20	Oaxaca	380	Santa Cruz Papalutla	1972
+20	Oaxaca	381	Santa Cruz Tacache de Mina	2606
+20	Oaxaca	382	Santa Cruz Tacahua	1170
+20	Oaxaca	383	Santa Cruz Tayata	608
+20	Oaxaca	384	Santa Cruz Xitla	4514
+20	Oaxaca	387	Santa Gertrudis	2858
+20	Oaxaca	388	Santa Inés del Monte	2535
+20	Oaxaca	389	Santa Inés Yatzeche	921
+20	Oaxaca	391	Santa Lucía Miahuatlán	3356
+20	Oaxaca	392	Santa Lucía Monteverde	6678
+20	Oaxaca	393	Santa Lucía Ocotlán	3604
+20	Oaxaca	394	Santa María Alotepec	2778
+20	Oaxaca	395	Santa María Apazco	1898
+20	Oaxaca	396	Santa María la Asunción	3252
+20	Oaxaca	398	Ayoquezco de Aldama	4406
+20	Oaxaca	400	Santa María Camotlán	1632
+20	Oaxaca	402	Santa María Cortijo	1083
+20	Oaxaca	403	Santa María Coyotepec	2772
+20	Oaxaca	404	Santa María Chachoápam	766
+20	Oaxaca	405	Villa de Chilapa de Díaz	1932
+20	Oaxaca	407	Santa María Chimalapa	8506
+20	Oaxaca	408	Santa María del Rosario	480
+20	Oaxaca	409	Santa María del Tule	8165
+20	Oaxaca	410	Santa María Ecatepec	3461
+20	Oaxaca	411	Santa María Guelacé	816
+20	Oaxaca	412	Santa María Guienagati	3286
+20	Oaxaca	415	Santa María Ipalapa	4888
+20	Oaxaca	416	Santa María Ixcatlán	516
+20	Oaxaca	417	Santa María Jacatepec	9240
+20	Oaxaca	419	Santa María Jaltianguis	575
+20	Oaxaca	420	Santa María Lachixío	1680
+20	Oaxaca	421	Santa María Mixtequilla	4442
+20	Oaxaca	422	Santa María Nativitas	681
+20	Oaxaca	423	Santa María Nduayaco	550
+20	Oaxaca	424	Santa María Ozolotepec	3992
+20	Oaxaca	425	Santa María Pápalo	2209
+20	Oaxaca	426	Santa María Peñoles	7865
+20	Oaxaca	428	Santa María Quiegolani	1770
+20	Oaxaca	429	Santa María Sola	1524
+20	Oaxaca	430	Santa María Tataltepec	253
+20	Oaxaca	431	Santa María Tecomavaca	1774
+20	Oaxaca	432	Santa María Temaxcalapa	968
+20	Oaxaca	433	Santa María Temaxcaltepec	2595
+20	Oaxaca	434	Santa María Teopoxco	4651
+20	Oaxaca	435	Santa María Tepantlali	3505
+20	Oaxaca	436	Santa María Texcatitlán	1113
+20	Oaxaca	437	Santa María Tlahuitoltepec	9663
+20	Oaxaca	438	Santa María Tlalixtac	1754
+20	Oaxaca	440	Santa María Totolapilla	896
+20	Oaxaca	441	Santa María Xadani	7781
+20	Oaxaca	442	Santa María Yalina	354
+20	Oaxaca	443	Santa María Yavesía	448
+20	Oaxaca	444	Santa María Yolotepec	461
+20	Oaxaca	445	Santa María Yosoyúa	1642
+20	Oaxaca	446	Santa María Yucuhiti	6551
+20	Oaxaca	448	Santa María Zaniza	2009
+20	Oaxaca	449	Santa María Zoquitlán	3359
+20	Oaxaca	451	Santiago Apoala	1053
+20	Oaxaca	452	Santiago Apóstol	4220
+20	Oaxaca	453	Santiago Astata	3915
+20	Oaxaca	454	Santiago Atitlán	3180
+20	Oaxaca	455	Santiago Ayuquililla	2748
+20	Oaxaca	456	Santiago Cacaloxtepec	1686
+20	Oaxaca	457	Santiago Camotlán	3395
+20	Oaxaca	458	Santiago Comaltepec	1115
+20	Oaxaca	459	Santiago Chazumba	4479
+20	Oaxaca	460	Santiago Choápam	5413
+20	Oaxaca	461	Santiago del Río	614
+20	Oaxaca	462	Santiago Huajolotitlán	4350
+20	Oaxaca	463	Santiago Huauclilla	663
+20	Oaxaca	464	Santiago Ihuitlán Plumas	480
+20	Oaxaca	465	Santiago Ixcuintepec	1568
+20	Oaxaca	470	Santiago Lachiguiri	4693
+20	Oaxaca	471	Santiago Lalopa	496
+20	Oaxaca	472	Santiago Laollaga	3198
+20	Oaxaca	473	Santiago Laxopa	1394
+20	Oaxaca	474	Santiago Llano Grande	3260
+20	Oaxaca	475	Santiago Matatlán	9653
+20	Oaxaca	476	Santiago Miltepec	409
+20	Oaxaca	477	Santiago Minas	1430
+20	Oaxaca	478	Santiago Nacaltepec	1913
+20	Oaxaca	479	Santiago Nejapilla	219
+20	Oaxaca	480	Santiago Nundiche	967
+20	Oaxaca	481	Santiago Nuyoó	1966
+20	Oaxaca	483	Santiago Suchilquitongo	9542
+20	Oaxaca	484	Santiago Tamazola	4207
+20	Oaxaca	485	Santiago Tapextla	3031
+20	Oaxaca	486	Villa Tejúpam de la Unión	2469
+20	Oaxaca	487	Santiago Tenango	1945
+20	Oaxaca	488	Santiago Tepetlapa	131
+20	Oaxaca	489	Santiago Tetepec	4953
+20	Oaxaca	490	Santiago Texcalcingo	3076
+20	Oaxaca	491	Santiago Textitlán	4170
+20	Oaxaca	492	Santiago Tilantongo	3210
+20	Oaxaca	493	Santiago Tillo	553
+20	Oaxaca	494	Santiago Tlazoyaltepec	4894
+20	Oaxaca	495	Santiago Xanica	2884
+20	Oaxaca	496	Santiago Xiacuí	2171
+20	Oaxaca	497	Santiago Yaitepec	4122
+20	Oaxaca	498	Santiago Yaveo	6665
+20	Oaxaca	499	Santiago Yolomécatl	2021
+20	Oaxaca	500	Santiago Yosondúa	7883
+20	Oaxaca	501	Santiago Yucuyachi	940
+20	Oaxaca	502	Santiago Zacatepec	5515
+20	Oaxaca	503	Santiago Zoochila	374
+20	Oaxaca	504	Nuevo Zoquiápam	1652
+20	Oaxaca	505	Santo Domingo Ingenio	7554
+20	Oaxaca	506	Santo Domingo Albarradas	782
+20	Oaxaca	507	Santo Domingo Armenta	3224
+20	Oaxaca	508	Santo Domingo Chihuitán	1521
+20	Oaxaca	510	Santo Domingo Ixcatlán	877
+20	Oaxaca	511	Santo Domingo Nuxaá	3610
+20	Oaxaca	512	Santo Domingo Ozolotepec	913
+20	Oaxaca	513	Santo Domingo Petapa	8394
+20	Oaxaca	514	Santo Domingo Roayaga	997
+20	Oaxaca	516	Santo Domingo Teojomulco	4571
+20	Oaxaca	517	Santo Domingo Tepuxtepec	5194
+20	Oaxaca	518	Santo Domingo Tlatayápam	153
+20	Oaxaca	519	Santo Domingo Tomaltepec	2790
+20	Oaxaca	520	Santo Domingo Tonalá	7153
+20	Oaxaca	521	Santo Domingo Tonaltepec	276
+20	Oaxaca	522	Santo Domingo Xagacía	1213
+20	Oaxaca	523	Santo Domingo Yanhuitlán	1609
+20	Oaxaca	524	Santo Domingo Yodohino	369
+20	Oaxaca	527	Santos Reyes Pápalo	2829
+20	Oaxaca	528	Santos Reyes Tepejillo	1213
+20	Oaxaca	529	Santos Reyes Yucuná	1332
+20	Oaxaca	530	Santo Tomás Jalieza	3385
+20	Oaxaca	531	Santo Tomás Mazaltepec	2333
+20	Oaxaca	532	Santo Tomás Ocotepec	4076
+20	Oaxaca	533	Santo Tomás Tamazulapan	2191
+20	Oaxaca	534	San Vicente Coatlán	3964
+20	Oaxaca	535	San Vicente Lachixío	2976
+20	Oaxaca	536	San Vicente Nuñú	493
+20	Oaxaca	537	Silacayoápam	6747
+20	Oaxaca	538	Sitio de Xitlapehua	705
+20	Oaxaca	539	Soledad Etla	5025
+20	Oaxaca	540	Villa de Tamazulápam del Progreso	7059
+20	Oaxaca	541	Tanetze de Zaragoza	1707
+20	Oaxaca	542	Taniche	746
+20	Oaxaca	543	Tataltepec de Valdés	5561
+20	Oaxaca	544	Teococuilco de Marcos Pérez	1106
+20	Oaxaca	545	Teotitlán de Flores Magón	8966
+20	Oaxaca	546	Teotitlán del Valle	5638
+20	Oaxaca	547	Teotongo	951
+20	Oaxaca	548	Tepelmeme Villa de Morelos	1734
+20	Oaxaca	550	San Jerónimo Tlacochahuaya	5076
+20	Oaxaca	552	Tlacotepec Plumas	510
+20	Oaxaca	553	Tlalixtac de Cabrera	9417
+20	Oaxaca	554	Totontepec Villa de Morelos	5598
+20	Oaxaca	555	Trinidad Zaachila	2653
+20	Oaxaca	556	La Trinidad Vista Hermosa	249
+20	Oaxaca	558	Valerio Trujano	1543
+20	Oaxaca	560	Villa Díaz Ordaz	6174
+20	Oaxaca	561	Yaxe	2683
+20	Oaxaca	562	Magdalena Yodocono de Porfirio Díaz	1458
+20	Oaxaca	563	Yogana	1308
+20	Oaxaca	564	Yutanduchi de Guerrero	1292
+20	Oaxaca	566	San Mateo Yucutindó	3034
+20	Oaxaca	567	Zapotitlán Lagunas	3133
+20	Oaxaca	568	Zapotitlán Palmas	1514
+20	Oaxaca	569	Santa Inés de Zaragoza	1707
+21	Puebla	2	Acateno	8916
+21	Puebla	5	Acteopan	2881
+21	Puebla	7	Ahuatlán	3403
+21	Puebla	9	Ahuehuetitla	2008
+21	Puebla	11	Albino Zertuche	1770
+21	Puebla	12	Aljojuca	6288
+21	Puebla	14	Amixtlán	5004
+21	Puebla	16	Aquixtla	7848
+21	Puebla	18	Atexcal	3734
+21	Puebla	20	Atoyatempan	6426
+21	Puebla	21	Atzala	1228
+21	Puebla	23	Atzitzintla	8408
+21	Puebla	24	Axutla	947
+21	Puebla	25	Ayotoxco de Guerrero	8153
+21	Puebla	27	Caltepec	4177
+21	Puebla	28	Camocuautla	2476
+21	Puebla	29	Caxhuacan	3791
+21	Puebla	30	Coatepec	758
+21	Puebla	31	Coatzingo	2964
+21	Puebla	32	Cohetzala	1283
+21	Puebla	33	Cohuecan	4763
+21	Puebla	37	Coyotepec	2339
+21	Puebla	38	Cuapiaxtla de Madero	8709
+21	Puebla	39	Cuautempan	9212
+21	Puebla	40	Cuautinchán	9538
+21	Puebla	42	Cuayuca de Andrade	3062
+21	Puebla	46	Chapulco	6992
+21	Puebla	52	Chigmecatitlán	1227
+21	Puebla	55	Chila	4699
+21	Puebla	56	Chila de la Sal	1237
+21	Puebla	57	Honey	7463
+21	Puebla	59	Chinantla	2468
+21	Puebla	60	Domingo Arenas	6946
+21	Puebla	62	Epatlán	4594
+21	Puebla	66	Guadalupe	6276
+21	Puebla	68	Hermenegildo Galeana	7718
+21	Puebla	70	Huatlatlauca	6643
+21	Puebla	73	Huehuetlán el Chico	8679
+21	Puebla	77	Hueytlalpan	5734
+21	Puebla	79	Huitziltepec	5306
+21	Puebla	80	Atlequizayan	2833
+21	Puebla	81	Ixcamilpa de Guerrero	3695
+21	Puebla	82	Ixcaquixtla	8093
+21	Puebla	84	Ixtepec	6811
+21	Puebla	88	Jonotla	4598
+21	Puebla	92	Juan N. Méndez	5223
+21	Puebla	93	Lafragua	7767
+21	Puebla	95	La Magdalena Tlatlauquitepec	484
+21	Puebla	96	Mazapiltepec de Juárez	2633
+21	Puebla	97	Mixtla	2216
+21	Puebla	98	Molcaxac	6218
+21	Puebla	100	Naupan	9707
+21	Puebla	101	Nauzontla	3598
+21	Puebla	103	Nicolás Bravo	6009
+21	Puebla	105	Ocotepec	4825
+21	Puebla	112	Petlalcingo	9382
+21	Puebla	113	Piaxtla	4585
+21	Puebla	120	San Antonio Cañada	5110
+21	Puebla	121	San Diego la Mesa Tochimiltzingo	1132
+21	Puebla	122	San Felipe Teotlalcingo	9426
+21	Puebla	123	San Felipe Tepatlán	4120
+21	Puebla	125	San Gregorio Atzompa	8170
+21	Puebla	126	San Jerónimo Tecuanipan	5826
+21	Puebla	127	San Jerónimo Xayacatlán	3777
+21	Puebla	128	San José Chiapa	8087
+21	Puebla	130	San Juan Atenco	3416
+21	Puebla	131	San Juan Atzompa	872
+21	Puebla	133	San Martín Totoltepec	651
+21	Puebla	135	San Miguel Ixitlán	586
+21	Puebla	137	San Nicolás Buenos Aires	9185
+21	Puebla	139	San Pablo Anicano	3554
+21	Puebla	141	San Pedro Yeloixtlahuaca	3395
+21	Puebla	146	Santa Catarina Tlaltempan	874
+21	Puebla	147	Santa Inés Ahuatempan	5944
+21	Puebla	148	Santa Isabel Cholula	8040
+21	Puebla	150	Huehuetlán el Grande	7060
+21	Puebla	151	Santo Tomás Hueyotlipan	8016
+21	Puebla	155	Tecomatlán	5420
+21	Puebla	158	Tenampulco	6772
+21	Puebla	159	Teopantlán	4024
+21	Puebla	160	Teotlalco	3121
+21	Puebla	162	Tepango de Rodríguez	4244
+21	Puebla	165	Tepemaxalco	1141
+21	Puebla	166	Tepeojuma	8056
+21	Puebla	168	Tepexco	6580
+21	Puebla	171	Tepeyahualco de Cuauhtémoc	3365
+21	Puebla	173	Teteles de Avila Castillo	5689
+21	Puebla	175	Tianguismanalco	9807
+21	Puebla	176	Tilapa	8401
+21	Puebla	181	Tlaltenango	6269
+21	Puebla	182	Tlanepantla	4833
+21	Puebla	184	Tlapacoya	6406
+21	Puebla	185	Tlapanalá	8404
+21	Puebla	187	Tlaxco	5415
+21	Puebla	190	Totoltepec de Guerrero	1155
+21	Puebla	191	Tulcingo	9245
+21	Puebla	192	Tuzamapan de Galeana	5983
+21	Puebla	193	Tzicatlacoyan	6242
+21	Puebla	196	Xayacatlán de Bravo	1649
+21	Puebla	198	Xicotlán	1241
+21	Puebla	200	Xochiapulco	3911
+21	Puebla	201	Xochiltepec	3187
+21	Puebla	203	Xochitlán Todos Santos	6049
+21	Puebla	204	Yaonáhuac	7514
+21	Puebla	206	Zacapala	4224
+21	Puebla	209	Zapotitlán	8220
+21	Puebla	210	Zapotitlán de Méndez	5608
+21	Puebla	215	Zongozotla	4599
+21	Puebla	216	Zoquiapan	2639
+22	Querétaro	15	San Joaquín	8865
+24	San Luis Potosí	2	Alaquines	8186
+24	San Luis Potosí	4	Armadillo de los Infante	4436
+24	San Luis Potosí	6	Catorce	9716
+24	San Luis Potosí	9	Cerro de San Pedro	4021
+24	San Luis Potosí	19	Lagunillas	5774
+24	San Luis Potosí	26	San Antonio	9390
+24	San Luis Potosí	30	San Nicolás Tolentino	5466
+24	San Luis Potosí	43	Tierra Nueva	9024
+24	San Luis Potosí	44	Vanegas	7902
+24	San Luis Potosí	47	Villa de Guadalupe	9779
+24	San Luis Potosí	48	Villa de la Paz	5350
+26	Sonora	1	Aconchi	2637
+26	Sonora	4	Altar	9049
+26	Sonora	5	Arivechi	1253
+26	Sonora	6	Arizpe	3037
+26	Sonora	7	Atil	625
+26	Sonora	8	Bacadéhuachi	1252
+26	Sonora	9	Bacanora	784
+26	Sonora	10	Bacerac	1467
+26	Sonora	11	Bacoachi	1646
+26	Sonora	13	Banámichi	1646
+26	Sonora	14	Baviácora	3560
+26	Sonora	15	Bavispe	1454
+26	Sonora	16	Benjamín Hill	5275
+26	Sonora	20	Carbó	5347
+26	Sonora	21	La Colorada	1663
+26	Sonora	22	Cucurpe	958
+26	Sonora	23	Cumpas	6362
+26	Sonora	24	Divisaderos	813
+26	Sonora	27	Fronteras	8639
+26	Sonora	28	Granados	1150
+26	Sonora	31	Huachinera	1350
+26	Sonora	32	Huásabas	962
+26	Sonora	34	Huépac	1154
+26	Sonora	37	Mazatán	1350
+26	Sonora	38	Moctezuma	4680
+26	Sonora	39	Naco	6401
+26	Sonora	40	Nácori Chico	2051
+26	Sonora	44	Onavas	399
+26	Sonora	45	Opodepe	2878
+26	Sonora	46	Oquitoa	443
+26	Sonora	47	Pitiquito	9468
+26	Sonora	49	Quiriego	3356
+26	Sonora	50	Rayón	1599
+26	Sonora	51	Rosario	5226
+26	Sonora	52	Sahuaripa	6020
+26	Sonora	53	San Felipe de Jesús	396
+26	Sonora	54	San Javier	492
+26	Sonora	56	San Miguel de Horcasitas	8382
+26	Sonora	57	San Pedro de la Cueva	1604
+26	Sonora	59	Santa Cruz	1998
+26	Sonora	60	Sáric	2703
+26	Sonora	61	Soyopa	1284
+26	Sonora	62	Suaqui Grande	1121
+26	Sonora	63	Tepache	1365
+26	Sonora	64	Trincheras	1731
+26	Sonora	65	Tubutama	1735
+26	Sonora	66	Ures	9185
+26	Sonora	67	Villa Hidalgo	1738
+26	Sonora	68	Villa Pesqueira	1254
+26	Sonora	69	Yécora	6046
+28	Tamaulipas	4	Antiguo Morelos	9003
+28	Tamaulipas	5	Burgos	4589
+28	Tamaulipas	6	Bustamante	7636
+28	Tamaulipas	8	Casas	4423
+28	Tamaulipas	10	Cruillas	2011
+28	Tamaulipas	11	Gómez Farías	8786
+28	Tamaulipas	14	Guerrero	4477
+28	Tamaulipas	18	Jiménez	8338
+28	Tamaulipas	20	Mainero	2579
+28	Tamaulipas	23	Méndez	4530
+28	Tamaulipas	24	Mier	4762
+28	Tamaulipas	26	Miquihuana	3514
+28	Tamaulipas	28	Nuevo Morelos	3381
+28	Tamaulipas	31	Palmillas	1795
+28	Tamaulipas	34	San Carlos	9331
+28	Tamaulipas	36	San Nicolás	1031
+28	Tamaulipas	42	Villagrán	6316
+29	Tlaxcala	1	Amaxac de Guerrero	9875
+29	Tlaxcala	3	Atlangatepec	6018
+29	Tlaxcala	9	Cuaxomulco	5066
+29	Tlaxcala	11	Muñoz de Domingo Arenas	4285
+29	Tlaxcala	12	Españita	8399
+29	Tlaxcala	16	Ixtenco	6791
+29	Tlaxcala	17	Mazatecochco de José María Morelos	9740
+29	Tlaxcala	20	Sanctórum de Lázaro Cárdenas	8474
+29	Tlaxcala	22	Acuamanala de Miguel Hidalgo	5711
+29	Tlaxcala	35	Tocatlán	5589
+29	Tlaxcala	37	Ziltlaltépec de Trinidad Sánchez Santos	8224
+29	Tlaxcala	40	Xaltocan	9777
+29	Tlaxcala	45	Benito Juárez	5687
+29	Tlaxcala	46	Emiliano Zapata	4146
+29	Tlaxcala	47	Lázaro Cárdenas	2769
+29	Tlaxcala	49	San Damián Texóloc	5064
+29	Tlaxcala	50	San Francisco Tetlanohcan	9880
+29	Tlaxcala	51	San Jerónimo Zacualpan	3581
+29	Tlaxcala	52	San José Teacalco	5660
+29	Tlaxcala	53	San Juan Huactzinco	6821
+29	Tlaxcala	54	San Lorenzo Axocomanitla	5045
+29	Tlaxcala	55	San Lucas Tecopilco	2833
+29	Tlaxcala	56	Santa Ana Nopalucan	6857
+29	Tlaxcala	57	Santa Apolonia Teacalco	4349
+29	Tlaxcala	58	Santa Catarina Ayometla	7992
+29	Tlaxcala	59	Santa Cruz Quilehtla	6296
+29	Tlaxcala	60	Santa Isabel Xiloxoxtla	4436
+30	Veracruz de Ignacio de la Llave	1	Acajete	8223
+30	Veracruz de Ignacio de la Llave	2	Acatlán	3085
+30	Veracruz de Ignacio de la Llave	5	Acula	5129
+30	Veracruz de Ignacio de la Llave	7	Camarón de Tejeda	6224
+30	Veracruz de Ignacio de la Llave	8	Alpatláhuac	9691
+30	Veracruz de Ignacio de la Llave	12	Amatitlán	7487
+30	Veracruz de Ignacio de la Llave	17	Apazapan	4027
+30	Veracruz de Ignacio de la Llave	18	Aquila	1797
+30	Veracruz de Ignacio de la Llave	19	Astacinga	5995
+30	Veracruz de Ignacio de la Llave	20	Atlahuilco	9824
+30	Veracruz de Ignacio de la Llave	36	Coacoatzintla	9416
+30	Veracruz de Ignacio de la Llave	37	Coahuitlán	7810
+30	Veracruz de Ignacio de la Llave	41	Coetzala	2144
+30	Veracruz de Ignacio de la Llave	42	Colipa	5728
+30	Veracruz de Ignacio de la Llave	56	Chiconamel	6752
+30	Veracruz de Ignacio de la Llave	64	Chumatlán	3889
+30	Veracruz de Ignacio de la Llave	74	Huiloapan de Cuauhtémoc	6750
+30	Veracruz de Ignacio de la Llave	84	Ixmatlahuacan	5727
+30	Veracruz de Ignacio de la Llave	88	Jalcomulco	4940
+30	Veracruz de Ignacio de la Llave	96	Landero y Coss	1546
+30	Veracruz de Ignacio de la Llave	98	Magdalena	2920
+30	Veracruz de Ignacio de la Llave	106	Miahuatlán	4429
+30	Veracruz de Ignacio de la Llave	107	Las Minas	2897
+30	Veracruz de Ignacio de la Llave	113	Naranjal	4507
+30	Veracruz de Ignacio de la Llave	114	Nautla	9974
+30	Veracruz de Ignacio de la Llave	119	Otatitlán	5250
+30	Veracruz de Ignacio de la Llave	136	Rafael Lucio	7023
+30	Veracruz de Ignacio de la Llave	137	Los Reyes	5484
+30	Veracruz de Ignacio de la Llave	139	Saltabarranca	5908
+30	Veracruz de Ignacio de la Llave	140	San Andrés Tenejapan	2715
+30	Veracruz de Ignacio de la Llave	146	Sochiapa	3502
+30	Veracruz de Ignacio de la Llave	153	Tancoco	5873
+30	Veracruz de Ignacio de la Llave	156	Tatatila	5584
+30	Veracruz de Ignacio de la Llave	162	Tenampa	6247
+30	Veracruz de Ignacio de la Llave	163	Tenochtitlán	5222
+30	Veracruz de Ignacio de la Llave	165	Tepatlaxco	8249
+30	Veracruz de Ignacio de la Llave	166	Tepetlán	9004
+30	Veracruz de Ignacio de la Llave	171	Texhuacán	5292
+30	Veracruz de Ignacio de la Llave	176	Tlacojalpan	4632
+30	Veracruz de Ignacio de la Llave	179	Tlacotepec de Mejía	3965
+30	Veracruz de Ignacio de la Llave	184	Tlaquilpa	7151
+30	Veracruz de Ignacio de la Llave	185	Tlilapan	4879
+30	Veracruz de Ignacio de la Llave	186	Tomatlán	6763
+30	Veracruz de Ignacio de la Llave	187	Tonayán	5696
+30	Veracruz de Ignacio de la Llave	190	Tuxtilla	2177
+30	Veracruz de Ignacio de la Llave	195	Xoxocotla	5163
+30	Veracruz de Ignacio de la Llave	198	Zacualpan	6784
+31	Yucatán	1	Abalá	6356
+31	Yucatán	4	Baca	5701
+31	Yucatán	5	Bokobá	2053
+31	Yucatán	6	Buctzotz	8637
+31	Yucatán	7	Cacalchén	6811
+31	Yucatán	8	Calotmul	4095
+31	Yucatán	9	Cansahcab	4696
+31	Yucatán	10	Cantamayec	2407
+31	Yucatán	11	Celestún	6831
+31	Yucatán	12	Cenotillo	3701
+31	Yucatán	13	Conkal	9143
+31	Yucatán	14	Cuncunul	1595
+31	Yucatán	15	Cuzamá	4966
+31	Yucatán	16	Chacsinkín	2818
+31	Yucatán	17	Chankom	4464
+31	Yucatán	18	Chapab	3035
+31	Yucatán	20	Chicxulub Pueblo	4113
+31	Yucatán	21	Chichimilá	7952
+31	Yucatán	22	Chikindzonot	4162
+31	Yucatán	23	Chocholá	4530
+31	Yucatán	24	Chumayel	3148
+31	Yucatán	25	Dzán	4941
+31	Yucatán	26	Dzemul	3489
+31	Yucatán	27	Dzidzantún	8133
+31	Yucatán	28	Dzilam de Bravo	2463
+31	Yucatán	29	Dzilam González	5905
+31	Yucatán	30	Dzitás	3540
+31	Yucatán	31	Dzoncauich	2772
+31	Yucatán	34	Hocabá	6061
+31	Yucatán	35	Hoctún	5697
+31	Yucatán	36	Homún	7257
+31	Yucatán	37	Huhí	4841
+31	Yucatán	39	Ixil	3803
+31	Yucatán	42	Kantunil	5502
+31	Yucatán	43	Kaua	2761
+31	Yucatán	44	Kinchil	6571
+31	Yucatán	45	Kopomá	2449
+31	Yucatán	46	Mama	2888
+31	Yucatán	47	Maní	5250
+31	Yucatán	49	Mayapán	3269
+31	Yucatán	51	Mocochá	3071
+31	Yucatán	54	Muxupip	2755
+31	Yucatán	55	Opichén	6285
+31	Yucatán	57	Panabá	7461
+31	Yucatán	60	Quintana Roo	942
+31	Yucatán	61	Río Lagartos	3438
+31	Yucatán	62	Sacalum	4589
+31	Yucatán	63	Samahil	5008
+31	Yucatán	64	Sanahcat	1619
+31	Yucatán	65	San Felipe	1839
+31	Yucatán	66	Santa Elena	3833
+31	Yucatán	67	Seyé	9276
+31	Yucatán	68	Sinanché	3126
+31	Yucatán	69	Sotuta	8449
+31	Yucatán	70	Sucilá	3930
+31	Yucatán	71	Sudzal	1689
+31	Yucatán	72	Suma	1876
+31	Yucatán	73	Tahdziú	4447
+31	Yucatán	74	Tahmek	3609
+31	Yucatán	75	Teabo	6205
+31	Yucatán	77	Tekal de Venegas	2606
+31	Yucatán	78	Tekantó	3683
+31	Yucatán	80	Tekit	9884
+31	Yucatán	81	Tekom	3100
+31	Yucatán	82	Telchac Pueblo	3557
+31	Yucatán	83	Telchac Puerto	1726
+31	Yucatán	84	Temax	6817
+31	Yucatán	86	Tepakán	2226
+31	Yucatán	87	Tetiz	4725
+31	Yucatán	88	Teya	1977
+31	Yucatán	90	Timucuy	6833
+31	Yucatán	92	Tixcacalcupul	6665
+31	Yucatán	94	Tixmehuac	4746
+31	Yucatán	95	Tixpéhual	5388
+31	Yucatán	97	Tunkás	3464
+31	Yucatán	99	Uayma	3782
+31	Yucatán	100	Ucú	3469
+31	Yucatán	103	Xocchel	3236
+31	Yucatán	105	Yaxkukul	2868
+31	Yucatán	106	Yobaín	2137
+32	Zacatecas	1	Apozol	6314
+32	Zacatecas	2	Apulco	5005
+32	Zacatecas	3	Atolinga	2692
+32	Zacatecas	4	Benito Juárez	4372
+32	Zacatecas	6	Cañitas de Felipe Pescador	8239
+32	Zacatecas	11	Trinidad García de la Cadena	3013
+32	Zacatecas	12	Genaro Codina	8104
+32	Zacatecas	13	General Enrique Estrada	5894
+32	Zacatecas	15	El Plateado de Joaquín Amaro	1609
+32	Zacatecas	18	Huanusco	4306
+32	Zacatecas	21	Jiménez del Teul	4584
+32	Zacatecas	27	Melchor Ocampo	2662
+32	Zacatecas	28	Mezquital del Oro	2584
+32	Zacatecas	30	Momax	2529
+32	Zacatecas	31	Monte Escobedo	8929
+32	Zacatecas	33	Moyahua de Estrada	4563
+32	Zacatecas	41	El Salvador	2710
+32	Zacatecas	43	Susticacán	1360
+32	Zacatecas	45	Tepechitlán	8215
+32	Zacatecas	46	Tepetongo	7090
+32	Zacatecas	47	Teúl de González Ortega	5506
+32	Zacatecas	50	Vetagrande	9353
+32	Zacatecas	58	Santa María de la Paz	2821
